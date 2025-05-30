@@ -6,7 +6,7 @@ import { LiaBullhornSolid } from 'react-icons/lia'
 import { TbHomeX, TbUserSearch } from 'react-icons/tb'
 const HomeSection = () => {
     return (
-        <div className='min-h-screen max-w-6xl mx-auto'>
+        <div className='min-h-screen max-w-6xl mx-auto' id='service'>
             <div className='py-25 flex flex-col gap-20'>
                 <div className='grid grid-cols-1 md:grid-cols-2 place-items-center gap-x-2'>
                     <div className='grid gap-4'>
