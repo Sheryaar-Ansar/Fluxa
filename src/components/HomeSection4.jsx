@@ -7,7 +7,7 @@ import img from '../assets/homeSection4-2.jpg'
 
 const HomeSection4 = () => {
     return (
-        <div className='max-w-6xl min-h-screen mx-auto mt-15'>
+        <div className='max-w-6xl  mx-auto mt-15'>
             <div className=''>
                 <div className='grid grid-cols-1 md:grid-cols-2  md:gap-x-10'>
                     <div className='relative flex flex-col gap-y-5'>

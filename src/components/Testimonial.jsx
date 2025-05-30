@@ -60,7 +60,7 @@ const Testimonial = () => {
         prevArrow: <PrevArrow />
     };
     return (
-        <div className='max-w-7xl mx-auto min-h-screen'>
+        <div className='max-w-7xl mx-auto mt-35'>
             <div>
                 <h2 className='text-[#6F26C2] uppercase text-center font-bold'>Testimonial</h2>
                 <h1 className='text-center text-4xl font-bold text-black'>What Our Customers Say</h1>
