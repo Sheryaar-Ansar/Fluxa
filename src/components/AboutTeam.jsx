@@ -47,7 +47,7 @@ const AboutTeam = () => {
         cssEase: 'linear'
     };
     return (
-        <div className='max-w-7xl mx-auto min-h-screen mt-35'>
+        <div className='max-w-7xl mx-auto min-h-screen mt-35' id='team'>
             <div className='flex flex-col gap-y-4'>
                 <h2 className='text-center text-[#6F26C2] font-bold uppercase'>Connect To Us</h2>
                 <h1 className='text-black font-bold text-center text-5xl'>Meet Our Expert Team</h1>

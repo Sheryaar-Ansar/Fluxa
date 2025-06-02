@@ -48,7 +48,7 @@ const HomeSection2 = () => {
         },
     ]
     return (
-        <div className='max-w-6xl mx-auto min-h-screen'>
+        <div className='max-w-6xl mx-auto min-h-screen' id='case-studies'>
             <div className='flex flex-col gap-5'>
                 <p className='uppercase text-[#6F26C2] font-bold'>Case Studies</p>
                 <div className='w-full flex justify-between items-center'>

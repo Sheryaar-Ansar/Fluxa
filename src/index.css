@@ -10,13 +10,13 @@ html{
   font-optical-sizing: auto;
   font-weight: 400;
 }
-.navlink.active{
+.custom-menu a.active{
   color: #6F26C2;
 }
-.navlink{
+.custom-menu a{
   position: relative;
 }
-.navlink::before{
+.custom-menu a::before{
   content: '';
   position: absolute;
   width: 100%;
@@ -27,7 +27,7 @@ html{
   transform: scaleX(0);
   transition: all 0.2s ease;
 }
-.navlink:hover::before{
+.custom-menu a:hover::before{
   transform: scaleX(1);
   /* width: 100%; */
 }
