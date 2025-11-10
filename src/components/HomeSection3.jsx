@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '../assets/HomeSection3-1.png'
+import img1 from '../assets/homeSection3-1.png'
 import Button from './Button'
 
 const HomeSection3 = () => {
